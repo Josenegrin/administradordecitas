@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/administradordecitas/static/css/main.3becedc6.css",
+    "main.js": "/administradordecitas/static/js/main.c69d08f9.js",
+    "static/js/496.0aae664e.chunk.js": "/administradordecitas/static/js/496.0aae664e.chunk.js",
+    "index.html": "/administradordecitas/index.html",
+    "main.3becedc6.css.map": "/administradordecitas/static/css/main.3becedc6.css.map",
+    "main.c69d08f9.js.map": "/administradordecitas/static/js/main.c69d08f9.js.map",
+    "496.0aae664e.chunk.js.map": "/administradordecitas/static/js/496.0aae664e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3becedc6.css",
+    "static/js/main.c69d08f9.js"
+  ]
+}
